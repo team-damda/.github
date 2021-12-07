@@ -11,3 +11,6 @@
 
 ### 시연 영상(1분 소요, 클릭해주세요)
 [![시연](https://img.youtube.com/vi/7-PmLFjKNSk/0.jpg)](https://www.youtube.com/watch?v=7-PmLFjKNSk)
+
+### 기술 스택
+![기술스택](https://github.com/team-damda/.github/blob/main/profile/jpgs/skills.png)
